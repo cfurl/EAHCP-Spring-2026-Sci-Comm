@@ -1,0 +1,169 @@
+---
+#title: "Edwards Aquifer Habitat Conservation Plan Spring 2026 Science Research Meeting"
+#subtitle: "April 15, 2026 · Texas State University - LBJ · San Marcos, TX"
+
+---
+
+::: {.hero}
+# Edwards Aquifer Habitat Conservation Plan Spring 2026 Science Research Meeting
+
+**April 15, 2026 · Texas State University - LBJ · San Marcos, TX**
+
+Please join us for the Spring 2026 EAHCP Science Research Meeting.  The meeting will be held April, 15 2026 at the LBJ student center in room 313.  please rsvp to so and so and see our flyer below.  We hope to see you there! HCP team.  lorem ipsumm. Please join us for the Spring 2026 EAHCP Science Research Meeting.  The meeting will be held April, 15 2026 at the LBJ student center in room 313.  please rsvp to so and so and see our flyer below.  We hope to see you there! HCP team.  lorem ipsumm
+
+**Date:** April XX, 2026  
+**Location:** Texas State University, San Marcos, TX  
+
+[Download Flyer](flyer.pdf){.btn .btn-primary .btn-lg}
+
+:::
+
+## Program {#program}
+
+::: {.section-heading}
+### Symposium Program
+:::
+
+**Tentative schedule**
+
+**Morning**
+
+- **9:00 – 10:00 AM** · *State of the Biological and Hydrological Systems*  
+  Short overview talks from EAA staff and partners.
+
+- **10:00 – 10:30 AM** · *Coffee Break*
+
+- **10:30 AM – 12:00 PM** · Parallel Sessions  
+  - **Track A – Hydrology**  
+    Extreme events, recharge, and long-term trends.  
+  - **Track B – Eurycea**  
+    Salamander ecology, genetics, and monitoring.
+
+**Lunch**
+
+- **12:00 – 1:00 PM** · *Lunch & Networking*  
+  Box lunches provided; poster browsing encouraged.
+
+**Afternoon**
+
+- **1:00 – 2:30 PM** · Parallel Sessions  
+  - **Track A – Data Streams**  
+    Radar, springflow, portals, and data tools.  
+  - **Track B – TBD**  
+    (Restoration, vegetation, darters, macroinvertebrates, etc.)
+
+- **2:30 – 3:00 PM** · *EAHCP Science Committee Business Meeting*
+
+- **3:00 PM** · Adjourn
+
+> _Note: Final program with talk titles and times will be posted here once confirmed._
+
+---
+
+## Speakers & Abstracts {#abstracts}
+
+::: {.section-heading}
+### Invited Speakers & Abstracts
+:::
+
+::: {.grid .gap-4}
+::: {.card}
+#### Dr. Håkan Something
+*Hydrologist, University / Agency*
+
+**Talk:** *Floods, Recharge, and “Flash Flood Alley”*  
+
+**Abstract:**  
+Short 2–3 paragraph abstract here. Summarize objectives, methods, and key findings. 
+:::
+
+::: {.card}
+#### Dr. Chakraborty
+*Institution*
+
+**Talk:** *Long-term Aquifer Dynamics Under Climate Variability*  
+
+**Abstract:**  
+Another placeholder abstract block. You can paste full abstracts here, or link to a PDF if they’re long.
+:::
+
+::: {.card}
+#### Chad Furl
+*Edwards Aquifer Authority*
+
+**Talk:** *New Data Tools for Rainfall and Recharge*  
+
+**Abstract:**  
+Brief description of your radar / data work, as long as you like.
+:::
+:::
+
+> **Suggestion:** For 20+ talks, we can switch to collapsible accordions by session instead of cards to avoid a mega-scroll. When you have the full list, send it and I’ll re-format this section.
+
+---
+
+## Logistics {#logistics}
+
+::: {.section-heading}
+### Logistics & Venue
+:::
+
+**Venue**
+
+- **Building:** [Building Name], Texas State University  
+- **Address:** Street Address, San Marcos, TX 78666
+
+**Check-in**
+
+- Check-in opens at **8:15 AM** in the lobby outside the main auditorium.
+- Name badges and programs will be available at the registration table.
+
+**Wi-Fi**
+
+- Network: `TSU-Guest`  
+- Instructions: Follow on-screen prompts; no account required.
+
+**Meals & Coffee**
+
+- Coffee and light refreshments provided during the morning break.
+- Lunch is provided for all registered participants (please indicate dietary needs in advance).
+
+---
+
+## Parking & Directions {#parking}
+
+::: {.section-heading}
+### Parking & Directions
+:::
+
+**Parking**
+
+- Recommended lot(s): **Lot X**, **Garage Y**  
+- Cost: e.g., `$X/day` or “validated with parking pass”
+- Follow on-site signage for “EAHCP Symposium.”
+
+![Parking map](img/parking-map.png)
+
+**Campus map**
+
+![Campus map](img/campus-map.png)
+
+> If your media/IT folks provide a PDF or an official parking map URL, we can swap these placeholders out with that.
+
+---
+
+## Flyer {#flyer}
+
+::: {.section-heading}
+### Symposium Flyer
+:::
+
+The official event flyer (produced by EAA media) can be downloaded here:
+
+- [Download Symposium Flyer (PDF)](flyer.pdf)
+
+If you prefer an inline view, we can also embed it directly:
+
+```{=html}
+<iframe src="flyer.pdf" width="100%" height="800" style="border: none;">
+</iframe>

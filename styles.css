@@ -1,11 +1,5 @@
+/* --- Original hero + card styles (kept for reuse) --- */
 
----
-
-## 5. Optional `styles.css` for a nicer look
-
-Drop this in `styles.css` (same folder as `_quarto.yml`):
-
-```css
 .hero {
   padding: 4rem 1rem;
   text-align: center;
@@ -37,4 +31,89 @@ Drop this in `styles.css` (same folder as `_quarto.yml`):
   border-radius: 1rem;
   box-shadow: 0 4px 12px rgba(0,0,0,0.06);
   background: #ffffff;
+}
+
+/* --- New full-width hero image with overlay text --- */
+
+.hero-full {
+  position: relative;
+  margin: 0 calc(-50vw + 50%);  /* stretch to full viewport width */
+}
+
+.hero-full img.hero-img {
+  width: 100%;
+  display: block;
+}
+
+.hero-overlay {
+  position: absolute;
+  bottom: 1.5rem;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.55);
+  color: #ffffff;
+  padding: 0.75rem 1.5rem;
+  border-radius: 999px;  /* pill shape */
+  font-size: 0.95rem;
+  text-align: center;
+  max-width: 90%;
+}
+
+/* spacing between hero and the “A one-day…” text below */
+.hero-below {
+  margin-top: 1.5rem;
+}
+
+/* --- Program / presenters table styling --- */
+
+table.talk-table {
+  width: 100%;
+}
+
+.talk-table th,
+.talk-table td {
+  vertical-align: top;
+}
+
+/* Column widths: make Presenter wider + keep on one line */
+.talk-table th:nth-child(1),
+.talk-table td:nth-child(1) {
+  width: 22%;
+  white-space: nowrap;
+}
+
+.talk-table th:nth-child(2),
+.talk-table td:nth-child(2) {
+  width: 24%;
+}
+
+.talk-table th:nth-child(3),
+.talk-table td:nth-child(3) {
+  width: 14%;
+}
+
+.talk-table th:nth-child(4),
+.talk-table td:nth-child(4) {
+  width: 30%;
+}
+
+.talk-table th:nth-child(5),
+.talk-table td:nth-child(5) {
+  width: 10%;
+}
+
+/* Make the abstract dropdowns look clickable */
+.talk-table details summary {
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.talk-table details summary::-webkit-details-marker {
+  /* optional marker tweak if desired */
+}
+
+.talk-table details p {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+  font-size: 0.9rem;
 }

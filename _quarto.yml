@@ -8,15 +8,9 @@ website:
     left:
       - text: "Program"
         href: "#program"
-      - text: "Speakers & Abstracts"
-        href: "#abstracts"
       - text: "Logistics"
         href: "#logistics"
-      - text: "Parking"
-        href: "#parking"
-      - text: "Flyer"
-        href: "#flyer"
-
+      
 format:
   html:
     theme: cosmo       # we can tweak this later

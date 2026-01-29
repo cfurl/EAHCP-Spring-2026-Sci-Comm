@@ -1,169 +1,195 @@
 ---
-#title: "Edwards Aquifer Habitat Conservation Plan Spring 2026 Science Research Meeting"
-#subtitle: "April 15, 2026 · Texas State University - LBJ · San Marcos, TX"
-
+title: "Edwards Aquifer Habitat Conservation Plan Spring 2026 Science Research Meeting"
+subtitle: "April 15, 2026 · Texas State University · LBJ Student Center Room 323 · San Marcos, TX"
 ---
 
-::: {.hero}
-# Edwards Aquifer Habitat Conservation Plan Spring 2026 Science Research Meeting
+::: {.hero-full}
+![](img/hero.jpg){.hero-img}
 
-**April 15, 2026 · Texas State University - LBJ · San Marcos, TX**
-
-Please join us for the Spring 2026 EAHCP Science Research Meeting.  The meeting will be held April, 15 2026 at the LBJ student center in room 313.  please rsvp to so and so and see our flyer below.  We hope to see you there! HCP team.  lorem ipsumm. Please join us for the Spring 2026 EAHCP Science Research Meeting.  The meeting will be held April, 15 2026 at the LBJ student center in room 313.  please rsvp to so and so and see our flyer below.  We hope to see you there! HCP team.  lorem ipsumm
-
-**Date:** April XX, 2026  
-**Location:** Texas State University, San Marcos, TX  
-
-[Download Flyer](flyer.pdf){.btn .btn-primary .btn-lg}
-
+<div class="hero-overlay">
+  <strong>Date:</strong> April 15, 2026 ·
+  <strong>Location:</strong> LBJ Student Center, Room 323 · Texas State University · San Marcos, TX
+</div>
 :::
+
+<div class="hero-below">
+A one-day conference highlighting current research efforts around the Edwards Aquifer and the Edwards Aquifer Habitat Conservation Plan.
+
+[Download full program (PDF)](img/program.pdf){.btn .btn-primary}
+</div>
 
 ## Program {#program}
 
-::: {.section-heading}
-### Symposium Program
-:::
-
-**Tentative schedule**
-
-**Morning**
-
-- **9:00 – 10:00 AM** · *State of the Biological and Hydrological Systems*  
-  Short overview talks from EAA staff and partners.
-
-- **10:00 – 10:30 AM** · *Coffee Break*
-
-- **10:30 AM – 12:00 PM** · Parallel Sessions  
-  - **Track A – Hydrology**  
-    Extreme events, recharge, and long-term trends.  
-  - **Track B – Eurycea**  
-    Salamander ecology, genetics, and monitoring.
-
-**Lunch**
-
-- **12:00 – 1:00 PM** · *Lunch & Networking*  
-  Box lunches provided; poster browsing encouraged.
-
-**Afternoon**
-
-- **1:00 – 2:30 PM** · Parallel Sessions  
-  - **Track A – Data Streams**  
-    Radar, springflow, portals, and data tools.  
-  - **Track B – TBD**  
-    (Restoration, vegetation, darters, macroinvertebrates, etc.)
-
-- **2:30 – 3:00 PM** · *EAHCP Science Committee Business Meeting*
-
-- **3:00 PM** · Adjourn
-
-> _Note: Final program with talk titles and times will be posted here once confirmed._
-
----
-
-## Speakers & Abstracts {#abstracts}
-
-::: {.section-heading}
-### Invited Speakers & Abstracts
-:::
-
-::: {.grid .gap-4}
-::: {.card}
-#### Dr. Håkan Something
-*Hydrologist, University / Agency*
-
-**Talk:** *Floods, Recharge, and “Flash Flood Alley”*  
-
-**Abstract:**  
-Short 2–3 paragraph abstract here. Summarize objectives, methods, and key findings. 
-:::
-
-::: {.card}
-#### Dr. Chakraborty
-*Institution*
-
-**Talk:** *Long-term Aquifer Dynamics Under Climate Variability*  
-
-**Abstract:**  
-Another placeholder abstract block. You can paste full abstracts here, or link to a PDF if they’re long.
-:::
-
-::: {.card}
-#### Chad Furl
-*Edwards Aquifer Authority*
-
-**Talk:** *New Data Tools for Rainfall and Recharge*  
-
-**Abstract:**  
-Brief description of your radar / data work, as long as you like.
-:::
-:::
-
-> **Suggestion:** For 20+ talks, we can switch to collapsible accordions by session instead of cards to avoid a mega-scroll. When you have the full list, send it and I’ll re-format this section.
-
----
-
-## Logistics {#logistics}
-
-::: {.section-heading}
-### Logistics & Venue
-:::
-
-**Venue**
-
-- **Building:** [Building Name], Texas State University  
-- **Address:** Street Address, San Marcos, TX 78666
-
-**Check-in**
-
-- Check-in opens at **8:15 AM** in the lobby outside the main auditorium.
-- Name badges and programs will be available at the registration table.
-
-**Wi-Fi**
-
-- Network: `TSU-Guest`  
-- Instructions: Follow on-screen prompts; no account required.
-
-**Meals & Coffee**
-
-- Coffee and light refreshments provided during the morning break.
-- Lunch is provided for all registered participants (please indicate dietary needs in advance).
-
----
-
-## Parking & Directions {#parking}
-
-::: {.section-heading}
-### Parking & Directions
-:::
-
-**Parking**
-
-- Recommended lot(s): **Lot X**, **Garage Y**  
-- Cost: e.g., `$X/day` or “validated with parking pass”
-- Follow on-site signage for “EAHCP Symposium.”
-
-![Parking map](img/parking-map.png)
-
-**Campus map**
-
-![Campus map](img/campus-map.png)
-
-> If your media/IT folks provide a PDF or an official parking map URL, we can swap these placeholders out with that.
-
----
-
-## Flyer {#flyer}
-
-::: {.section-heading}
-### Symposium Flyer
-:::
-
-The official event flyer (produced by EAA media) can be downloaded here:
-
-- [Download Symposium Flyer (PDF)](flyer.pdf)
-
-If you prefer an inline view, we can also embed it directly:
+The list below shows all scheduled talks.  
+Click **“View abstract”** for each presenter (abstracts will be added as they are finalized).
 
 ```{=html}
-<iframe src="flyer.pdf" width="100%" height="800" style="border: none;">
-</iframe>
+<table class="talk-table">
+  <thead>
+    <tr>
+      <th>Presenter</th>
+      <th>Affiliation</th>
+      <th>Session</th>
+      <th>Title</th>
+      <th>Abstract</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Chad Furl, Ph.D. P.E.</td>
+      <td>Edwards Aquifer Authority</td>
+      <td>State of the Springs</td>
+      <td>Opening Remarks</td>
+      <td>
+        <details>
+          <summary>View abstract</summary>
+          <p>Abstract available in March.</p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>Paul Bertetti, P.G.</td>
+      <td>Edwards Aquifer Authority</td>
+      <td>State of the Springs</td>
+      <td>Edwards Aquifer Hydrological update</td>
+      <td>
+        <details>
+          <summary>View abstract</summary>
+          <p>Abstract available in March.</p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>Christa Kunkel, M.S.</td>
+      <td>Bio-West, Inc.</td>
+      <td>State of the Springs</td>
+      <td>Springs Biological update</td>
+      <td>
+        <details>
+          <summary>View abstract</summary>
+          <p>Abstract available in March.</p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>Hakan Başağaoğlu, Ph.D.</td>
+      <td>Edwards Aquifer Authority</td>
+      <td>Edwards Hydrology</td>
+      <td>AI-derived recharge estimates to the Edwards Aquifer</td>
+      <td>
+        <details>
+          <summary>View abstract</summary>
+          <p>Abstract available in March.</p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>Changbing Yang, Ph.D. P.G.</td>
+      <td>Edwards Aquifer Authority</td>
+      <td>Edwards Hydrology</td>
+      <td>Quantifying Recharge Basin Contributions to Springflow in a Karst Aquifer using Soluble Transport Modeling</td>
+      <td>
+        <details>
+          <summary>View abstract</summary>
+          <p>Abstract available in March.</p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>Debaditya Chakraborty, Ph.D.</td>
+      <td>University of Texas at San Antonio</td>
+      <td>Edwards Hydrology</td>
+      <td>Short-term AI-based springflow predictions at Comal and San Marcos springs</td>
+      <td>
+        <details>
+          <summary>View abstract</summary>
+          <p>Abstract available in March.</p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>Tyson McKinney, M.S.</td>
+      <td>Austin Watershed Protection Department</td>
+      <td>Edwards Hydrology</td>
+      <td>Determining Post-Storm Wait Times to Ensure Baseflow Conditions for Water-Quality Sampling: A Case Study from the Edwards Aquifer, Central Texas.</td>
+      <td>
+        <details>
+          <summary>View abstract</summary>
+          <p>Abstract available in March.</p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>Ben Hutchins, Ph.D.</td>
+      <td>Texas State University - Edwards Aquifer Research and Data Center</td>
+      <td>Data Repositories</td>
+      <td>The Aquifer Biodiversity Collection at the Edwards Aquifer Research and Data Center</td>
+      <td>
+        <details>
+          <summary>View abstract</summary>
+          <p>Abstract available in March.</p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>Bryan Anderson, M.S.</td>
+      <td>Edwards Aquifer Authority</td>
+      <td>Data Repositories</td>
+      <td>The Edwards Aquifer Authority Environmental Data Portal</td>
+      <td>
+        <details>
+          <summary>View abstract</summary>
+          <p>Abstract available in March.</p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>Pete Diaz, M.S.</td>
+      <td>U.S. Fish and Wildlife Service</td>
+      <td>HCP Biology</td>
+      <td>Occupancy and Site Level Estimates of Abundance for the San Marcos Salamander (Eurycea nana)</td>
+      <td>
+        <details>
+          <summary>View abstract</summary>
+          <p>Abstract available in March.</p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>Nate Bendik</td>
+      <td>Austin Watershed Protection Department</td>
+      <td>HCP Biology</td>
+      <td>Restoration of Spring-Run Habitat Improves Abundance and Juvenile Survival for Endangered, Highly Endemic Salamanders.</td>
+      <td>
+        <details>
+          <summary>View abstract</summary>
+          <p>Abstract available in March.</p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>Chris Riggins, M.S.</td>
+      <td>Texas State University - The Meadows Center for Water and the Environment</td>
+      <td>HCP Biology</td>
+      <td>Control Enhancement Research of Suckermouth Armored Catfish</td>
+      <td>
+        <details>
+          <summary>View abstract</summary>
+          <p>Abstract available in March.</p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>TBD</td>
+      <td>San Antonio River Authority</td>
+      <td>HCP Biology</td>
+      <td>Apple Snails: Big Snail, Even Bigger Problem</td>
+      <td>
+        <details>
+          <summary>View abstract</summary>
+          <p>Abstract available in March.</p>
+        </details>
+      </td>
+    </tr>
+  </tbody>
+</table>
