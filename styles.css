@@ -1,4 +1,4 @@
-/* --- Original hero + card styles (kept for reuse) --- */
+/* --- Hero / layout --- */
 
 .hero {
   padding: 4rem 1rem;
@@ -18,6 +18,10 @@
   font-size: 1.1rem;
   opacity: 0.95;
 }
+/* Center the main page title */
+.quarto-title-block .title {
+  text-align: center;
+}
 
 .section-heading {
   margin-top: 3rem;
@@ -33,11 +37,11 @@
   background: #ffffff;
 }
 
-/* --- New full-width hero image with overlay text --- */
+/* Full-width hero image with centered overlay text */
 
 .hero-full {
   position: relative;
-  margin: 0 calc(-50vw + 50%);  /* stretch to full viewport width */
+  margin: 0 calc(-50vw + 50%);
 }
 
 .hero-full img.hero-img {
@@ -47,19 +51,18 @@
 
 .hero-overlay {
   position: absolute;
-  bottom: 1.5rem;
+  top: 50%;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translate(-50%, -50%);
   background: rgba(0, 0, 0, 0.55);
   color: #ffffff;
   padding: 0.75rem 1.5rem;
-  border-radius: 999px;  /* pill shape */
+  border-radius: 999px;
   font-size: 0.95rem;
   text-align: center;
   max-width: 90%;
 }
 
-/* spacing between hero and the “A one-day…” text below */
 .hero-below {
   margin-top: 1.5rem;
 }
@@ -68,11 +71,22 @@
 
 table.talk-table {
   width: 100%;
+  border-collapse: collapse;
 }
 
 .talk-table th,
 .talk-table td {
   vertical-align: top;
+  padding: 0.5rem 0.75rem;
+}
+
+.talk-table thead th {
+  border-bottom: 2px solid #e5e7eb;
+}
+
+/* row separators */
+.talk-table tbody tr + tr td {
+  border-top: 1px solid #e5e7eb;
 }
 
 /* Column widths: make Presenter wider + keep on one line */
@@ -102,17 +116,19 @@ table.talk-table {
   width: 10%;
 }
 
-/* Make the abstract dropdowns look clickable */
-.talk-table details summary {
+/* Zebra striping for readability (stronger contrast) */
+.talk-table tbody tr:nth-child(even) {
+  background-color: #d1d5db;
+}
+
+/* --- Abstract details styling (let browser handle toggle) --- */
+
+.abstract-details summary {
   cursor: pointer;
-  font-weight: 500;
+  font-weight: 600;
 }
 
-.talk-table details summary::-webkit-details-marker {
-  /* optional marker tweak if desired */
-}
-
-.talk-table details p {
+.abstract-details p {
   margin-top: 0.25rem;
   margin-bottom: 0;
   font-size: 0.9rem;
