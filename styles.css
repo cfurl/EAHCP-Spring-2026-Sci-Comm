@@ -1,11 +1,5 @@
+/* --- Hero / layout --- */
 
----
-
-## 5. Optional `styles.css` for a nicer look
-
-Drop this in `styles.css` (same folder as `_quarto.yml`):
-
-```css
 .hero {
   padding: 4rem 1rem;
   text-align: center;
@@ -24,6 +18,10 @@ Drop this in `styles.css` (same folder as `_quarto.yml`):
   font-size: 1.1rem;
   opacity: 0.95;
 }
+/* Center the main page title */
+.quarto-title-block .title {
+  text-align: center;
+}
 
 .section-heading {
   margin-top: 3rem;
@@ -37,4 +35,101 @@ Drop this in `styles.css` (same folder as `_quarto.yml`):
   border-radius: 1rem;
   box-shadow: 0 4px 12px rgba(0,0,0,0.06);
   background: #ffffff;
+}
+
+/* Full-width hero image with centered overlay text */
+
+.hero-full {
+  position: relative;
+  margin: 0 calc(-50vw + 50%);
+}
+
+.hero-full img.hero-img {
+  width: 100%;
+  display: block;
+}
+
+.hero-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.55);
+  color: #ffffff;
+  padding: 0.75rem 1.5rem;
+  border-radius: 999px;
+  font-size: 0.95rem;
+  text-align: center;
+  max-width: 90%;
+}
+
+.hero-below {
+  margin-top: 1.5rem;
+}
+
+/* --- Program / presenters table styling --- */
+
+table.talk-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.talk-table th,
+.talk-table td {
+  vertical-align: top;
+  padding: 0.5rem 0.75rem;
+}
+
+.talk-table thead th {
+  border-bottom: 2px solid #e5e7eb;
+}
+
+/* row separators */
+.talk-table tbody tr + tr td {
+  border-top: 1px solid #e5e7eb;
+}
+
+/* Column widths: make Presenter wider + keep on one line */
+.talk-table th:nth-child(1),
+.talk-table td:nth-child(1) {
+  width: 22%;
+  white-space: nowrap;
+}
+
+.talk-table th:nth-child(2),
+.talk-table td:nth-child(2) {
+  width: 24%;
+}
+
+.talk-table th:nth-child(3),
+.talk-table td:nth-child(3) {
+  width: 14%;
+}
+
+.talk-table th:nth-child(4),
+.talk-table td:nth-child(4) {
+  width: 30%;
+}
+
+.talk-table th:nth-child(5),
+.talk-table td:nth-child(5) {
+  width: 10%;
+}
+
+/* Zebra striping for readability (stronger contrast) */
+.talk-table tbody tr:nth-child(even) {
+  background-color: #d1d5db;
+}
+
+/* --- Abstract details styling (let browser handle toggle) --- */
+
+.abstract-details summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.abstract-details p {
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+  font-size: 0.9rem;
 }
