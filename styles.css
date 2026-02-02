@@ -1,4 +1,9 @@
 /* --- Hero / layout --- */
+/* Center the main page title and subtitle */
+.quarto-title-block .title,
+.quarto-title-block .subtitle {
+  text-align: center;
+}
 
 .hero {
   padding: 4rem 1rem;
