@@ -1,10 +1,11 @@
 ---
 title: "Edwards Aquifer Habitat Conservation Plan<br>Spring 2026 Science Research Meeting"
+subtitle: "A one-day conference highlighting current research efforts around the Edwards Aquifer and the<br>Edwards Aquifer Habitat Conservation Plan."
 ---
 
 
 ::: {.hero-full}
-![](img/hero.jpg){.hero-img}
+![](img/hero2.jpg){.hero-img}
 
 <div class="hero-overlay">
   April 15, 2026 · 9:00 – 3:00<br>
@@ -13,7 +14,6 @@ title: "Edwards Aquifer Habitat Conservation Plan<br>Spring 2026 Science Researc
 :::
 
 <div class="hero-below">
-A one-day conference highlighting current research efforts around the Edwards Aquifer and the Edwards Aquifer Habitat Conservation Plan.
 
 **Free Event – Lunch Provided · RSVP:** [kkollaus@edwardsaquifer.org](mailto:kkollaus@edwardsaquifer.org)
 
@@ -22,8 +22,7 @@ A one-day conference highlighting current research efforts around the Edwards Aq
 
 ## Program {#program}
 
-The list below shows all scheduled talks.  
-Abstracts will be added as they are finalized (most are expected in March).
+The list below shows all scheduled talks. Abstracts will be added as they are finalized.
 
 ```{=html}
 <table class="talk-table">
@@ -33,7 +32,6 @@ Abstracts will be added as they are finalized (most are expected in March).
       <th>Affiliation</th>
       <th>Session</th>
       <th>Title</th>
-      <th>Abstract</th>
     </tr>
   </thead>
   <tbody>
@@ -42,21 +40,18 @@ Abstracts will be added as they are finalized (most are expected in March).
       <td>Edwards Aquifer Authority</td>
       <td>State of the Springs</td>
       <td>Opening Remarks</td>
-      <td>&mdash;</td>
     </tr>
     <tr>
       <td>Paul Bertetti, P.G.</td>
       <td>Edwards Aquifer Authority</td>
       <td>State of the Springs</td>
       <td>Edwards Aquifer Hydrological update</td>
-      <td>&mdash;</td>
     </tr>
     <tr>
       <td>Christa Kunkel, M.S.</td>
       <td>Bio-West, Inc.</td>
       <td>State of the Springs</td>
       <td>Springs Biological update</td>
-      <td>&mdash;</td>
     </tr>
 
     <tr>
@@ -64,7 +59,6 @@ Abstracts will be added as they are finalized (most are expected in March).
       <td>Edwards Aquifer Authority</td>
       <td>Edwards Hydrology</td>
       <td>AI-derived recharge estimates to the Edwards Aquifer</td>
-      <td>Abstract available in March.</td>
     </tr>
 
     <tr>
@@ -72,7 +66,6 @@ Abstracts will be added as they are finalized (most are expected in March).
       <td>Edwards Aquifer Authority</td>
       <td>Edwards Hydrology</td>
       <td>Quantifying Recharge Basin Contributions to Springflow in a Karst Aquifer using Soluble Transport Modeling</td>
-      <td>Abstract available in March.</td>
     </tr>
 
     <tr>
@@ -80,7 +73,6 @@ Abstracts will be added as they are finalized (most are expected in March).
       <td>University of Texas at San Antonio</td>
       <td>Edwards Hydrology</td>
       <td>Short-term AI-based springflow predictions at Comal and San Marcos springs</td>
-      <td>Abstract available in March.</td>
     </tr>
 
     <tr>
@@ -88,7 +80,6 @@ Abstracts will be added as they are finalized (most are expected in March).
       <td>Austin Watershed Protection Department</td>
       <td>Edwards Hydrology</td>
       <td>Determining Post-Storm Wait Times to Ensure Baseflow Conditions for Water-Quality Sampling: A Case Study from the Edwards Aquifer, Central Texas.</td>
-      <td>Abstract available in March.</td>
     </tr>
 
     <tr>
@@ -96,7 +87,6 @@ Abstracts will be added as they are finalized (most are expected in March).
       <td>Texas State University - Edwards Aquifer Research and Data Center</td>
       <td>Data Repositories</td>
       <td>The Aquifer Biodiversity Collection at the Edwards Aquifer Research and Data Center</td>
-      <td>Abstract available in March.</td>
     </tr>
 
     <tr>
@@ -104,7 +94,6 @@ Abstracts will be added as they are finalized (most are expected in March).
       <td>Edwards Aquifer Authority</td>
       <td>Data Repositories</td>
       <td>The Edwards Aquifer Authority Environmental Data Portal</td>
-      <td>Abstract available in March.</td>
     </tr>
 
     <tr>
@@ -112,7 +101,6 @@ Abstracts will be added as they are finalized (most are expected in March).
       <td>U.S. Fish and Wildlife Service</td>
       <td>HCP Biology</td>
       <td>Occupancy and Site Level Estimates of Abundance for the San Marcos Salamander (Eurycea nana)</td>
-      <td>Abstract available in March.</td>
     </tr>
 
     <tr>
@@ -120,7 +108,6 @@ Abstracts will be added as they are finalized (most are expected in March).
       <td>Austin Watershed Protection Department</td>
       <td>HCP Biology</td>
       <td>Restoration of Spring-Run Habitat Improves Abundance and Juvenile Survival for Endangered, Highly Endemic Salamanders.</td>
-      <td>Abstract available in March.</td>
     </tr>
 
     <tr>
@@ -128,7 +115,6 @@ Abstracts will be added as they are finalized (most are expected in March).
       <td>Texas State University - The Meadows Center for Water and the Environment</td>
       <td>HCP Biology</td>
       <td>Control Enhancement Research of Suckermouth Armored Catfish</td>
-      <td>Abstract available in March.</td>
     </tr>
 
     <tr>
@@ -136,11 +122,15 @@ Abstracts will be added as they are finalized (most are expected in March).
       <td>San Antonio River Authority</td>
       <td>HCP Biology</td>
       <td>Apple Snails: Big Snail, Even Bigger Problem</td>
-      <td>Abstract available in March.</td>
     </tr>
   </tbody>
 </table>
 
 ```
 
-<h2 id="logistics">Logistics</h2> <p> <strong>Date &amp; Time</strong><br> April 15, 2026 &middot; 9:00 AM – 3:00 PM </p> <p> <strong>Location</strong><br> LBJ Student Center, Room 323<br> Texas State University &middot; San Marcos, Texas </p> <p> <strong>Check-in</strong><br> Check-in and name badges available outside Room 323 starting at 8:30 AM. </p> <p> <strong>Food &amp; breaks</strong><br> Morning and afternoon coffee breaks are provided.<br> Lunch is provided for all registered attendees. </p> <p> <strong>Parking</strong><br> Additional parking details will be provided prior to the event. </p> <p> <a href="img/parking-map.pdf" class="btn btn-secondary"> Download parking map (PDF) </a> </p>
+<h2 id="logistics">Logistics</h2> <p> <strong>Date &amp; Time</strong><br> April 15, 2026 &middot; 9:00 AM – 3:00 PM </p> <p> <strong>Location</strong><br> LBJ Student Center, Room 323<br> Texas State University &middot; San Marcos, Texas </p> <p> <strong>Check-in</strong><br> Check-in and name badges available outside Room 323 starting at 8:30 AM. </p> <p> <strong>Food &amp; breaks</strong><br> Morning and afternoon coffee breaks are provided.<br> Lunch is provided for all registered attendees. </p> <p> <strong>Parking</strong><br> Additional parking details will be provided prior to the event. </p> 
+
+
+
+<p> <a href="img/Parking.pdf" class="btn btn-secondary"> Download parking map (PDF) </a> </p>
+
